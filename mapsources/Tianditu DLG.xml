@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customMapSource>
+   <name>天地图 地形图</name>
+   <minZoom>3</minZoom>
+   <maxZoom>18</maxZoom>
+   <tileType>JPG</tileType>
+   <ignoreErrors>true</ignoreErrors>
+   <backgroundColor>#f5f4ed</backgroundColor>
+   <url><![CDATA[http://t{$serverpart}.tianditu.cn/DataServer?T=vec_c&X={$x}&Y={$y}&L={$z}]]></url>
+   <serverParts>0 1 2 3 5 6 7</serverParts>
+ </customMapSource>

@@ -1,0 +1,10 @@
+<customMapSource>
+<name>GeoQ ChinaOnlineCommunity</name>
+<minZoom>0</minZoom>
+<maxZoom>17</maxZoom>
+<tileType>jpg</tileType>
+<tileUpdate>IfNoneMatch</tileUpdate>
+<url>http://map.geoq.cn/ArcGIS/rest/services/ChinaOnlineCommunity/MapServer/tile/{$z}/{$y}/{$x}</url>
+<backgroundColor>#000000</backgroundColor>
+</customMapSource>
+

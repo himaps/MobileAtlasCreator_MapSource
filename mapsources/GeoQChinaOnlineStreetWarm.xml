@@ -1,0 +1,9 @@
+<customMapSource>
+<name>GeoQ ChinaOnlineStreetWarm</name>
+<minZoom>0</minZoom>
+<maxZoom>18</maxZoom>
+<tileType>jpg</tileType>
+<tileUpdate>IfNoneMatch</tileUpdate>
+<url>http://map.geoq.cn/ArcGIS/rest/services/ChinaOnlineStreetWarm/MapServer/tile/{$z}/{$y}/{$x}</url>
+<backgroundColor>#000000</backgroundColor>
+</customMapSource>

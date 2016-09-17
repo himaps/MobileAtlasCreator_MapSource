@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<customMapSource>
+    <name>谷歌 地形图</name>
+    <minZoom>0</minZoom>
+    <maxZoom>20</maxZoom> 
+    <tileType>PNG</tileType> 
+    <tileUpdate>None</tileUpdate> 
+    <url>http://www.google.cn/maps/vt?lyrs=m@189&amp;gl=cn&amp;x={$x}&amp;y={$y}&amp;z={$z}</url>
+</customMapSource>
